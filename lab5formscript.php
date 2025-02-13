@@ -1,5 +1,4 @@
 <?php
-//Make short Variable names
 $firstName = $_REQUEST['first_name_field'];
 $lastName = $_REQUEST['last_name_field'];
 $phone = $_REQUEST['phone_field'];
